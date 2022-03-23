@@ -1,0 +1,23 @@
+/* using . to reference it because it's a class */
+.banner {
+    font: "Arial";
+    color: white;
+    background-color: lightskyblue;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0px; /* this adds 100px padding to top and bottom, and 0 padding to left and right */
+}
+
+/* using # to reference it because it's an id */
+#banner-image {
+    height: 200px;
+}
+
+#tom-nook-twitter {
+    color: rgb(43, 160, 186);
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
